@@ -24,7 +24,7 @@ function Detail() {
 
     return (
         <div>
-            详情页面
+            详情页面11
             {params.id}
             <div>{art.title}</div>
         </div>
